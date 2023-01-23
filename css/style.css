@@ -358,7 +358,7 @@ header .navbar ul li a:hover{
 }
 
 .trajetória .box-container .box span{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     background:#222;
     color: #fff;
     border-radius: 5rem;
@@ -366,7 +366,7 @@ header .navbar ul li a:hover{
 }
 
 .trajetória .box-container .box h3{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(--yellow);
     padding-top: 1.5rem;
 }
@@ -379,7 +379,7 @@ header .navbar ul li a:hover{
 }
 
 .trajetória .box-container .box p{
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     color:#eee;
     padding: 1rem 0;
 }
@@ -492,11 +492,14 @@ header .navbar ul li a:hover{
     margin-top: 1rem;
     font-size: 1.7rem;
     color:#eee;
-    padding: 1rem 0;
+    /* padding: rem 0; */
     list-style: none;
-    margin-bottom: 5rem;
+    /* margin-bottom: rem; */
 }
 
+.trajetória .box-container .box-6 li {
+    padding: 0.5rem;
+}
 
 .container{
   max-width: 950px;
